@@ -1,7 +1,7 @@
 {
- "version": "2026.11.23.1422",
- "url": "https://raw.githubusercontent.com/andreabertoldi/rifine-tactics-aggiornamenti/main/update-2026.11.23.1422.zip",
- "sha256": "3525831ff486da40d25fc1ef568194f54a5df3a5483a804bd95efc4d8868cc51",
- "firma": "fb702e399a6e7ec469f878c47c83c0ff0293cfe84ae862351d19c7cf7344fff14cf0ce25add00c6eefe54beaa768979e321c643216d561f3f198ca0ce0935d08",
- "note": "• prova aggiornamneto\n"
+ "version": "2026.11.25.1036",
+ "url": "https://raw.githubusercontent.com/andreabertoldi/rifine-tactics-aggiornamenti/main/update-2026.11.25.1036.zip",
+ "sha256": "c8d9a56eb39fc8382e564f63e7d825312490565095d7a33a1eba1b7b1c51df76",
+ "firma": "dbf1ec6b0d337e0b24260e892e256763a2ea8d010908648742742d86b9c82ee372ad69ecacb181c033675318ecb89a0178d32ee2a7443f38d5f9624facb28805",
+ "note": "• Scorrimento del video con due dita sul trackpad (sinistra = avanti, destra = indietro)\n"
 }
