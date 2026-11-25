@@ -1,7 +1,7 @@
 {
- "version": "2026.11.25.1132",
- "url": "https://raw.githubusercontent.com/andreabertoldi/rifine-tactics-aggiornamenti/main/update-2026.11.25.1132.zip",
- "sha256": "553fef2081df654f2e70d909f94d951af7fb1968f6e5bf550b5180f9b79cadf4",
- "firma": "959f80f3e7549499d274a11c2673aaf74d75b440da18dcf865645f73591ac3d680dff6cf86d82a09afe4b1f937623b26a82eb3d75c3c129f0e87f72e9b5fc509",
- "note": "• Pezzi raccolti: copia o sposta in un altro lavoro (anche più pezzi insieme con ⌘)\n"
+ "version": "2026.11.25.1140",
+ "url": "https://raw.githubusercontent.com/andreabertoldi/rifine-tactics-aggiornamenti/main/update-2026.11.25.1140.zip",
+ "sha256": "dfba7aa4883cf2851398c3f3fef787ffa393cb3975d9589995a3bcc746c580e2",
+ "firma": "bbc9099d838c3610ab93726e2f7329056e580bfb2c19d6bfd42b7618ceb2e5b488612914a5d23fc3393ad02d174cebc5d8ed0101c54403a4d5f928bae5518d04",
+ "note": "• Pezzi raccolti: copia o sposta in un altro lavoro (anche più pezzi insieme con ⌘)\n• Avviso discreto in basso quando c'è un aggiornamento, anche a programma aperto\n"
 }
