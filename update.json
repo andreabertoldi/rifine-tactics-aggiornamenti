@@ -1,7 +1,7 @@
 {
- "version": "2026.11.25.1047",
- "url": "https://raw.githubusercontent.com/andreabertoldi/rifine-tactics-aggiornamenti/main/update-2026.11.25.1047.zip",
- "sha256": "720d1ba5c1bf6a7ae4757bd3f0abc789cabe5720fd40a4119851babb4937f86f",
- "firma": "fab19ab36fa7b6b511296cd82713a0fe6a72a3808612d017bd148b5e7750f9cd06e9e7a588a35a59b54cd5a088ae873eb9ce8d158f8e3909a250bf463f474400",
- "note": "• Scorrimento del video con due dita sul trackpad (sinistra = avanti, destra = indietro).\n"
+ "version": "2026.11.25.1132",
+ "url": "https://raw.githubusercontent.com/andreabertoldi/rifine-tactics-aggiornamenti/main/update-2026.11.25.1132.zip",
+ "sha256": "553fef2081df654f2e70d909f94d951af7fb1968f6e5bf550b5180f9b79cadf4",
+ "firma": "959f80f3e7549499d274a11c2673aaf74d75b440da18dcf865645f73591ac3d680dff6cf86d82a09afe4b1f937623b26a82eb3d75c3c129f0e87f72e9b5fc509",
+ "note": "• Pezzi raccolti: copia o sposta in un altro lavoro (anche più pezzi insieme con ⌘)\n"
 }
